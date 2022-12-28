@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java/ Java Spring, ReactJS, Angular and also other front-end frameworks programming.
 - 🌱 I have finished my master's degree in computer science at the Technical University of Berlin.
 - 💞️ I’m looking to collaborate on diverse and innovative project including web technologies.
-- 📫 How to reach me: Try to contact me via LinkedIn. Here's my [profile](https://www.linkedin.com/in/vasil-vasilev-60095416a/)
+- 📫 How to reach me: Try to contact me via LinkedIn. Here's my <a href="https://www.linkedin.com/in/vasil-vasilev-60095416a/" target="_blank">profile</a>
 
 <!---
 freaksN/freaksN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
