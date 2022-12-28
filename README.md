@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java/ Java Spring, ReactJS, Angular and also other front-end frameworks programming.
 - 🌱 I have finished my master's degree in computer science at the Technical University of Berlin.
 - 💞️ I’m looking to collaborate on diverse and innovative project including web technologies.
-- 📫 How to reach me: Contat me at my email **[E-Mail](mrvasilvasilev+github@gmail.com)**.
+- 📫 How to reach me:
 
 <!---
 freaksN/freaksN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
